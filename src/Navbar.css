@@ -1,0 +1,66 @@
+/* Navbar CSS */
+.custom-navbar {
+    background-color: #4b324f; /* Updated Dark Maroon Shade */
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Center-align content */
+.navbar-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.custom-navbar .navbar-brand {
+    color: white;
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: block;
+    text-align: left;
+}
+
+/* Stylish Subheading */
+.navbar-subheading {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #FFD700; /* Gold */
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Poppins', sans-serif;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+/* AC/NON A/C Rooms Text */
+.subtext {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #FFD700; /* Gold */
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: 'Poppins', sans-serif;
+    opacity: 0.9;
+}
+
+/* Contact Info Styling */
+.navbar-contact {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.contact-info {
+    font-size: 1rem;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.contact-info i {
+    color: #FFD700; /* Gold */
+}
