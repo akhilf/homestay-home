@@ -13,7 +13,7 @@ const Navbar = () => {
                     <i className="fas fa-phone"></i> <a href="tel:+919745149731" className="contact-link">+91 9745149731</a>
                 </span>
                 <span className="contact-info">
-                    <i className="fas fa-envelope"></i> contact@felicitainn.com
+                    <i className="fas fa-envelope"></i> felicitainnmt@gmail.com
                 </span>
             </div>
         </nav>

@@ -23,7 +23,7 @@ const App = () => {
         {
             id: 1,
             name: 'Felicita',
-            location: 'S VALAVU, Mananthavady, Wayanad, India',
+            location: 'S Valavu, Mananthavady, Wayanad, India',
             image: 'image1.jpeg',
             description: 'A beautiful home stay with a stunning nature view.',
             images: [
