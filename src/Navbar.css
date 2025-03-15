@@ -8,7 +8,13 @@
     justify-content: space-between;
     align-items: center;
 }
-
+@media (min-width: 768px) { 
+    .navbar-content {
+        flex-direction: row;
+        justify-content: space-between;
+        text-align: left;
+    }
+}
 /* Center-align content */
 .navbar-content {
     display: flex;

@@ -24,9 +24,10 @@ const ContactUs = () => {
                 We'd love to hear from you! Reach out to us for bookings, inquiries, or any questions.
             </p>
             <div className="contact-details">
-                <p><i className="fas fa-phone"></i> <strong>Phone:</strong> +91 9400991399</p>
-                <p><i className="fas fa-envelope"></i> <strong>Email:</strong> contact@felicitainn.com</p>
-                <p><i className="fas fa-map-marker-alt"></i> <strong>Address:</strong> S VALAVU, Wayanad </p>
+                <p><i className="fas fa-phone"></i> <strong>Phone 1: </strong> <a href="tel:+919400991399" className="contact-link">+91 9745149731</a></p>
+                <p><i className="fas fa-phone"></i> <strong>Phone 2: </strong> <a href="tel:+919400991399" className="contact-link">+91 9400991399</a></p>
+                <p><i className="fas fa-envelope"></i> <strong>Email: </strong> contact@felicitainn.com</p>
+                <p><i className="fas fa-map-marker-alt"></i> <strong>Address: </strong> S VALAVU, Mananthavady, Wayanad </p>
                 
                 {/* Facebook Link */}
                 <p>

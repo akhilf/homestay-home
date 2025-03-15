@@ -109,3 +109,13 @@
   .about-content ul li{
     list-style-type: none;
   }
+  .contact-link {
+    color: #FFD700;  /* Gold color */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contact-link:hover {
+    text-decoration: underline;
+    color: #fff; /* White color on hover */
+}
